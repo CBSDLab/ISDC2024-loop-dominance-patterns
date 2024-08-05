@@ -7,7 +7,7 @@ August 6, 2024
 Presented at the 2024 International System Dynamics Conference, Bergen, Norway
 
 ## Model
-The Developmental Transitions model of dynamics of cognitive vulnerability and family support is a “proof of concept” model where the primary purpose is to demonstrate the feasibility of using system dynamics to develop feedback theories in developmental psychology. Details of the model and documentation are described in Hovmand et al (2022). 
+The Developmental Transitions model of dynamics of cognitive vulnerability and family support is a “proof of concept” model where the primary purpose is to demonstrate the feasibility of using system dynamics to develop feedback theories in developmental psychology. Details of the model and documentation are described in Hovmand et al (2022) and [the CCFP22 release on GitHub](https://github.com/CBSDLab/Developmental_Transitions/tree/CCFP22).
 
 ## References 
 Hovmand, P. S., Calzada, E. J., Gulbas, L. E., Kim, S. Y., Chung, S., Kuhlberg, J., Hausmann-Stabile, C., & Zayas, L. H. (2022). System dynamics of cognitive vulnerabilities and family support among Latina children and adolescents. Clinical Child and Family Psychology Review, 25(1), 131–149. https://doi.org/10.1007/s10567-022-00395-3
