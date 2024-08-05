@@ -22,7 +22,7 @@ The Developmental Transitions model of dynamics of cognitive vulnerability and f
 Figure 2...
 ![image](https://github.com/user-attachments/assets/c495405b-3ff6-4588-bf03-d766a6eb9a97)
 
-**Figure 2** [Click here to interacte with the plot (may take a few seconds to load)](https://cbsdlab.github.io/ISDC2024-loop-dominance-patterns/Results/p1.html)
+**Figure 2** [Click here to interacte with the plot (may take a few seconds to load)](https://cbsdlab.github.io/ISDC2024-loop-dominance-patterns/Results/p1.html](https://tinyurl.com/5n7ewd2w)
 
 Figure 3...
 ![image](https://github.com/user-attachments/assets/74ea33cb-1405-48a1-9e0f-bc0355d39f2a)
