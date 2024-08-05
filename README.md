@@ -23,9 +23,15 @@ The Developmental Transitions model of dynamics of cognitive vulnerability and f
 
 **Figure 2** [Click here to interacte with the plot](Results/p1.html)
 
+![image](https://github.com/user-attachments/assets/74ea33cb-1405-48a1-9e0f-bc0355d39f2a)
+
+**Figure 3** [Click here to interacte with the plot](Results/p3.html)
+
 ![image](https://github.com/user-attachments/assets/1b28d16f-0bf7-4a3d-aaa6-51680abc7317)
 
-**Figure 3** [Click here to interacte with the plot](Results/p2.html)
+**Figure 4** [Click here to interacte with the plot](Results/p2.html)
+
+
 
 
 ## References 
