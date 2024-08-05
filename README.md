@@ -23,6 +23,10 @@ The Developmental Transitions model of dynamics of cognitive vulnerability and f
 
 **Figure 2** [Click here to interacte with the plot](Results/p1.html)
 
+![image](https://github.com/user-attachments/assets/b97873f3-03d9-43b7-8ad1-e97b96d1a68b)
+**Figure 3** [Click here to interacte with the plot](Results/p2.html)
+
+
 ## References 
 Hovmand, P. S., Calzada, E. J., Gulbas, L. E., Kim, S. Y., Chung, S., Kuhlberg, J., Hausmann-Stabile, C., & Zayas, L. H. (2022). System dynamics of cognitive vulnerabilities and family support among Latina children and adolescents. Clinical Child and Family Psychology Review, 25(1), 131–149. [https://doi.org/10.1007/s10567-022-00395-3](https://doi.org/10.1007/s10567-022-00395-3)
 
