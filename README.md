@@ -12,6 +12,7 @@ The Developmental Transitions model of dynamics of cognitive vulnerability and f
 
 
 ![image](https://github.com/user-attachments/assets/8e0ed502-67f4-46b1-8a4f-ace437dfc5b2)
+
 **Figure 1** Model with loop labels corresponding to loop dominance analysis
 
 ## References 
