@@ -19,17 +19,21 @@ The Developmental Transitions model of dynamics of cognitive vulnerability and f
 
 ## Results
 
+Figure 2...
 ![image](https://github.com/user-attachments/assets/c495405b-3ff6-4588-bf03-d766a6eb9a97)
 
-**Figure 2** [Click here to interacte with the plot (may take a few seconds to load)]([Results/p1.html](https://cbsdlab.github.io/ISDC2024-loop-dominance-patterns/Results/p1.html))
+**Figure 2** [Click here to interacte with the plot (may take a few seconds to load)](https://cbsdlab.github.io/ISDC2024-loop-dominance-patterns/Results/p1.html)
 
+Figure 3...
 ![image](https://github.com/user-attachments/assets/74ea33cb-1405-48a1-9e0f-bc0355d39f2a)
 
-**Figure 3** [Click here to interacte with the plot]([Results/p3.html](https://cbsdlab.github.io/ISDC2024-loop-dominance-patterns/Results/p3.html))
+**Figure 3** [Click here to interacte with the plot](https://cbsdlab.github.io/ISDC2024-loop-dominance-patterns/Results/p3.html)
+
+Figure 4...
 
 ![image](https://github.com/user-attachments/assets/1b28d16f-0bf7-4a3d-aaa6-51680abc7317)
 
-**Figure 4** [Click here to interacte with the plot]([Results/p2.html](https://cbsdlab.github.io/ISDC2024-loop-dominance-patterns/Results/p2.html))
+**Figure 4** [Click here to interacte with the plot](https://cbsdlab.github.io/ISDC2024-loop-dominance-patterns/Results/p2.html)
 
 
 
