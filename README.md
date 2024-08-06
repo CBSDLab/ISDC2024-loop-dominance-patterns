@@ -17,16 +17,19 @@ Figure 1 is the model with loop labels assigned based on the loop dominance anal
 
 **Figure 1** Model with loop labels corresponding to loop dominance analysis
 
-Figure 2 summarizes the results from simulating and analyzing transition across six cases where "1-2" refers to a transition from case 1 to case 2. To explore this graph in more detail, click [here to interacte with the plot (may take a few seconds to load)](https://tinyurl.com/5n7ewd2w). 
+Figure 2 shows the results for a transition from case 1 to case 3. The dominant loops correspond to the diagram in Figure 1. To interact and explore the diagram, [click here to interacte with the plot](https://tinyurl.com/5n7ewd2w). 
+
+![image](https://github.com/user-attachments/assets/74ea33cb-1405-48a1-9e0f-bc0355d39f2a)
+
+**Figure 2** [Click here to interacte with the plot](https://cbsdlab.github.io/ISDC2024-loop-dominance-patterns/Results/p3.html)
+
+
+Figure 3 summarizes the results from simulating and analyzing transition across six cases where "1-2" refers to a transition from case 1 to case 2. To explore this graph in more detail, click [here to interacte with the plot (may take a few seconds to load)](https://tinyurl.com/5n7ewd2w). 
 
 ![image](https://github.com/user-attachments/assets/c495405b-3ff6-4588-bf03-d766a6eb9a97)
 
-**Figure 2** Results from simulating and analyzing transitions across six cases [Click here to interacte with the plot (may take a few seconds to load)](https://tinyurl.com/5n7ewd2w)
+**Figure 3** Results from simulating and analyzing transitions across six cases [Click here to interacte with the plot (may take a few seconds to load)](https://tinyurl.com/5n7ewd2w)
 
-Figure 3...
-![image](https://github.com/user-attachments/assets/74ea33cb-1405-48a1-9e0f-bc0355d39f2a)
-
-**Figure 3** [Click here to interacte with the plot](https://cbsdlab.github.io/ISDC2024-loop-dominance-patterns/Results/p3.html)
 
 Figure 4...
 
